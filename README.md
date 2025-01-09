@@ -15,10 +15,16 @@ I am a Korean student living in France, studying programming and software develo
   #### :mortar_board: Bachelor of management, Sejong University(Seoul, korea)<br/>
 
 
-## 🧑‍💻 Study
-- **[Pisine]**: the entrance exam for École 42. Through this, I have learned the basic syntax of the C programming language.
-- **[Libft]**: Make my own repositery by myself. Through this, I have learned the consept of linked list.
-- **[Printf]**: Implementing the printf function! Through this, I learned about the inner workings of printf and variable arguments.
+## 🧑‍💻 Ecole42 subject
+- **[Pisine]** : the entrance exam for École 42. Through this, I have learned the basic syntax of the C programming language.
+- **[Libft]** : Make my own repositery by myself. Through this, I have learned the consept of linked list.
+- **[Printf]** : Implementing the printf function! Through this, I learned about the inner workings of printf and variable arguments.
+
+## 🧑‍💻 Personal study subject
+- **[C]** : 
+- **[C++]** : 
+- **[Data structures]** : 
+- **[Algorithm]** :
 
 
 
