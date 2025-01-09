@@ -13,12 +13,12 @@ I am a Korean student living in France, studying programming and software develo
   #### :fire: I aim to become a Data Engineer.<br/>
   #### :sunglasses: I can speak....Korean(Native), English(B2), Franch(B1)!
   #### :mortar_board: Bachelor of management, Sejong University(Seoul, korea)<br/>
-  <br/>
-  <br/>
+
 
 ## 🧑‍💻 Study
-- **[Pisine]**: This is the entrance exam for École 42. Through this, I have learned the basic syntax of the C programming language.
-
+- **[Pisine]**: the entrance exam for École 42. Through this, I have learned the basic syntax of the C programming language.
+- **[Libft]**: Make my own repositery by myself. Through this, I have learned the consept of linked list.
+- **[Printf]**: Implementing the printf function! Through this, I learned about the inner workings of printf and variable arguments.
 
 
 
