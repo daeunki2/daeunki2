@@ -19,6 +19,15 @@ I am a Korean student living in France, studying programming and software develo
 - **[Pisine]** : the entrance exam for École 42. Through this, I have learned the basic syntax of the C programming language.
 - **[Libft]** : Make my own repositery by myself. Through this, I have learned the consept of linked list.
 - **[Printf]** : Implementing the printf function! Through this, I learned about the inner workings of printf and variable arguments.
+- **[Get Next Linr]** : Creating a function to extract "one line" from a given file descriptor! Through this, I studied static variables, memory management, and file descriptors.
+- **[Born2beroot]** : Installing a virtual machine! While setting up the virtual machine, I learned various concepts such as firewalls and operating systems.
+- **[Push_Swap]** : The first algorithm assignment! I studied various algorithms such as Quick Sort and Merge Sort, and ultimately sorted numbers using the optimized method.
+- **[So_Long]** : 2D game development assignment! I learned about validation, the DFS algorithm, and how to handle graphics.
+- **[Pipex]** : Implementing pipes in Linux! Through this, I learned about data communication using pipes and gained an understanding of processes.
+- **[Minishell]** : Is this... a mini...? By implementing a shell, I studied the Linux shell! I've become stronger.
+- **[Philoshopers]** : I gained a deep understanding of threads, multithreading, and mutexes!
+
+
 
 ## 🧑‍💻 Personal study subject
 - **[C]** : 
