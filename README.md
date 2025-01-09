@@ -16,7 +16,7 @@ I am a Korean student living in France, studying programming and software develo
   <br/>
   <br/>
 
-## 🧑‍💻 주요 학습
+## 🧑‍💻 Study
 - **[Pisine]**: This is the entrance exam for École 42. Through this, I have learned the basic syntax of the C programming language.
 
 
