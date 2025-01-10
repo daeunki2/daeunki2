@@ -10,7 +10,7 @@ I am a Korean student living in France, studying programming and software develo
   
   ## 👀 About Me
   #### :raising_hand: I am a Student of École 42, Paris.<br/>
-  #### :fire: I aim to become a Data Engineer.<br/>
+  #### :fire: I aim to become a Software Engineer.<br/>
   #### :sunglasses: I can speak....Korean(Native), English(B2), Franch(B1)!
   #### :mortar_board: Bachelor of management, Sejong University(Seoul, korea)<br/>
 
