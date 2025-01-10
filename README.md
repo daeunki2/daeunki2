@@ -9,14 +9,14 @@ I am a Korean student living in France, studying programming and software develo
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Student of ecol42, Paris.<br/>
+  #### :raising_hand: I am a Student of ecole42, Paris.<br/>
   #### :fire: I aim to become a Data Engineer.<br/>
   #### :sunglasses: I can speak....Korean(Native), English(B2), Franch(B1)!
   #### :mortar_board: Bachelor of management, Sejong University(Seoul, korea)<br/>
 
 
 ## 🧑‍💻 Ecole42 subject
-- **[Pisine]** : the entrance exam for École 42. Through this, I have learned the basic syntax of the C programming language.
+- **[Piscine]** : the entrance exam for École 42. Through this, I have learned the basic syntax of the C programming language.
 - **[Libft]** : Make my own repositery by myself. Through this, I have learned the consept of linked list.
 - **[Printf]** : Implementing the printf function! Through this, I learned about the inner workings of printf and variable arguments.
 - **[Get Next Line]** : Creating a function to extract "one line" from a given file descriptor! Through this, I studied static variables, memory management, and file descriptors.
