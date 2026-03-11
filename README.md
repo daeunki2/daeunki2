@@ -72,6 +72,18 @@ Concurrency problem solving using threads and mutexes.
 **Born2beroot**  
 System administration project involving Linux VM configuration, security policies, and service management.
 
+**webserv**  
+Implementation of an HTTP/1.1 web server in C++ inspired by Nginx.  
+This project focuses on socket programming, HTTP protocol handling, event-driven architecture, and request/response processing.
+
+**inception**  
+Containerized web infrastructure using Docker.  
+Built a multi-service architecture including **NGINX, WordPress, and MariaDB** connected through Docker networks and persistent volumes.
+
+**ft_transcendence**  
+Full-stack web application project involving real-time features and multiplayer interaction.  
+The project includes backend APIs, frontend interface, authentication, and real-time communication between users.
+
 ---
 
 ## Languages
